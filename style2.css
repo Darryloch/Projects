@@ -29,9 +29,10 @@ h1{
 }
 
 #nav{
-    width: 150px;
+    width: 140px;
     float: left;
     background-color: #fefefe;
+    padding: 0px 0px 0px 10px;
 }
 #nav ul{
     list-style-type: none;
